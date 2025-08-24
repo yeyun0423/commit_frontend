@@ -1,6 +1,9 @@
 # commit_frontend
 <img width="1424" height="797" alt="image" src="https://github.com/user-attachments/assets/e4fa5ccd-9d61-40e3-9671-92031a21b0f1" />
 
+## 🎥 시연영상
+👉 [시연 영상 보러가기](https://drive.google.com/file/d/1b5oy49t_RYeARSqOCBvvcIv6FaRb3erN/view?usp=sharing)
+
 ## 📌 프로젝트 소개  
 **커미션 중개 서비스 플랫폼 어플리케이션**  
 사용자(의뢰인)와 작가(아티스트)를 연결하여 커미션을 의뢰·진행할 수 있는 플랫폼 앱입니다.  
