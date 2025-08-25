@@ -2,7 +2,7 @@
 <img width="1424" height="797" alt="image" src="https://github.com/user-attachments/assets/e4fa5ccd-9d61-40e3-9671-92031a21b0f1" />
 
 ## 🎥 시연영상
-👉 [시연 영상 보러가기](https://drive.google.com/file/d/1b5oy49t_RYeARSqOCBvvcIv6FaRb3erN/view?usp=sharing)
+👉 [시연 영상 보러가기](https://drive.google.com/file/d/1AtECU1pRcfulCkSJuwqNdFBoT1aWzSk5/view?usp=sharing)
 
 ## 📌 프로젝트 소개  
 **커미션 중개 서비스 플랫폼 어플리케이션**  
