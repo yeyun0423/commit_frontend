@@ -46,4 +46,5 @@
 ## targetSDK와 minSDK 버전
 - targetSDK : 35 / Android 15.0
 - minSDK : 24
+- 
 
